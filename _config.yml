@@ -21,15 +21,15 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 BrainDevLab
+title:                 The Brain Development Lab
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The Brain Development Laboratory of the Princeont Neuroscience Institute
+  The Brain Development Laboratory of the Princeton Neuroscience Institute
 
 # A shorter description for the sidebar.
-tagline:               The Brain Development Laboratory
+tagline:               Princeton Neuroscience Institute
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,18 +45,20 @@ author:
   name:                <Jesse> <Gomez>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             JesseGomezBrain
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Home
+    url:               /
+  - title:             Publications
+    url:               /publications/
+  - title:             People
+    url:               /people/
+  - title:             Code
+    url:               /code/
+  - title:             Media
+    url:               /media/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -262,7 +264,7 @@ hydejack:
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
   # seeing an old date. 
-  hide_dates:          false
+  hide_dates:          true
 
   # TODO
   hide_last_modified:  false

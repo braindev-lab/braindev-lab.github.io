@@ -1,47 +1,53 @@
 ---
 layout: page
-title: Thank You!
-sitemap: false
+title:  Home
+cover:  true 
 ---
+# About Me
+ <div class="row">
+  <div class="column" markdown="1">
+  The human brain undergoes dramatic changes in the time between birth and adulthood. From MRI to microscopy, we employ a range of techniques to study the nature of this development, and more importantly, what happens when this development goes awry.
+  </div>
+  
+  <div class="column">
+  <img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 50%; width: 50%; object-fit: contain"/>
+  </div>
+</div> 
 
-Thank you for buying the PRO version of Hydejack! 🎉
+***
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+## Education:
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+2016 - Present Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
+2013 - B.S., Biological Sciences, University of California Irvine, Irvine, CA  
+2011 - A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+## Research Positions:
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+2013 - 2016 Lab Manager, Vision and Perception Neuroscience Lab, Stanford University  
+2011 - 2013 Research Assistant, Visual Perception and Neuroimaging Lab, UC Irvine  
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+## Fellowships & Awards:
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+2018 NSF Graduate Research Fellowship  
+2009 Pierce College / UC Berkeley Summer Internship in Neuroscience
+<!--author-->
+
+
+<style type="text/css">
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 50%;    
+  }
+
+  img.ohbm-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+</style>
+
