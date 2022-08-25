@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  Home
+title:  The Lab
 cover:  true 
 ---
-# About Me
+# Mission
  <div class="row">
   <div class="column" markdown="1">
-  The human brain undergoes dramatic changes in the time between birth and adulthood. From MRI to microscopy, we employ a range of techniques to study the nature of this development, and more importantly, what happens when this development goes awry.
+  The human brain undergoes dramatic changes in the time between birth and adulthood. From MRI to microscopy, we employ a range of techniques to study the nature of this development, and more importantly, what happens when this development goes awry. Below are some areas of research on which the lab currently focuses.
   </div>
   
   <div class="column">
@@ -16,21 +16,21 @@ cover:  true
 
 ***
 
-## Education:
+## Experience and the brain:
 
-2016 - Present Ph.D., Psychology, University of Pennsylvania, Philadelphia, PA  
-2013 - B.S., Biological Sciences, University of California Irvine, Irvine, CA  
-2011 - A.A., Social and Behavioral Sciences, Los Angeles Pierce College, Los Angeles, CA  
+Line 1
+Line 2
+Line 3  
 
-## Research Positions:
+## The role of tissue:
 
-2013 - 2016 Lab Manager, Vision and Perception Neuroscience Lab, Stanford University  
-2011 - 2013 Research Assistant, Visual Perception and Neuroimaging Lab, UC Irvine  
+Line 1
+Line 2 
 
-## Fellowships & Awards:
+## The origins of organization:
 
-2018 NSF Graduate Research Fellowship  
-2009 Pierce College / UC Berkeley Summer Internship in Neuroscience
+Line 1
+Line 2
 <!--author-->
 
 
@@ -43,7 +43,7 @@ cover:  true
     flex: 50%;    
   }
 
-  img.ohbm-image {
+  img.lab-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
