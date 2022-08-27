@@ -15,7 +15,7 @@ cover:  true
   </div>
   
   <div class="column">
-  	<img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 40%; width: 40%; object-fit: contain"/>
+  	<img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 100%; width: 100%; object-fit: contain"/>
   	</div>
 </div> 
 
