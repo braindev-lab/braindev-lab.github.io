@@ -7,7 +7,7 @@ cover:  true
 
  <div class="row">
  	<div class="column">
-  	<img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 60%; width: 60%; object-fit: contain"/>
+  	<img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 40%; width: 40%; object-fit: contain"/>
   	</div>
  </div> 
 
