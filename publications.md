@@ -20,7 +20,7 @@ permalink: /publications/
 
 ## 2019
 
-1. Natu, V., Gomez, J., Barnett, M., Jeska, B., Kirilina, E., Jaeger, C., Zhen, Z., Cox, S., Weiner, K. S., Weiskopf, N. Grill-Spector K. (2019) <a href="https://drive.google.com/file/d/1kI8pZUG4G7UhMxEpfgWB24N6E9dlo4qL/view?usp=sharing" target="_blank">PNAS</a>.
+1. Natu, V., Gomez, J., Barnett, M., Jeska, B., Kirilina, E., Jaeger, C., Zhen, Z., Cox, S., Weiner, K. S., Weiskopf, N. Grill-Spector K. Apparent thinning of human visual cortex during childhood is associated with myelination (2019) <a href="https://drive.google.com/file/d/1kI8pZUG4G7UhMxEpfgWB24N6E9dlo4qL/view?usp=sharing" target="_blank">PNAS</a>.
 
 1. Gomez, J., Barnett, M., Grill-Spector, K. Extensive childhood experience with Pokemon suggests eccentricity drives organization of visual cortex (2019) <a href="https://drive.google.com/file/d/1oZxNbh9dzekzhL9PY7XQjgrtuemzJJW0/view?usp=sharing" target="_blank">Nature Human Behavior</a>.
 
@@ -36,7 +36,7 @@ permalink: /publications/
 
 1. Gomez, J., Barnett, M., Natu, V., Mezer, A., Palomero-Gallagher, N., Weiner, K. S., Amunts, K., Zilles, K., Grill-Spector, K. Microstructural proliferation in human cortex is couple with the development of face processing (2017) <a href="https://drive.google.com/file/d/1WKaGc760vOR93_iN8wsTaqIOP5wdbmP0/view?usp=sharing" target="_blank">Science</a>.
 
-1. Weiner, K. S., Barnett, M., Witthoft, N., Golarai, G., Stigliani, A., Kay, K., Gomez, J., Natu, V., Amunts, K., Zilles, K., Grill-Spector, K. Defining the most probably location of the parahippocampal place area using cortex-based alignment and cross-validation (2017) <a href="https://drive.google.com/file/d/1xVBjvcyoz_FuIWIN_CtH3ZZIt4MuSIig/view?usp=sharing" target="_blank">NeuroImage</a>.
+1. Weiner, K. S., Barnett, M., Witthoft, N., Golarai, G., Stigliani, A., Kay, K., Gomez, J., Natu, V., Amunts, K., Zilles, K., Grill-Spector, K. Defining the most probable location of the parahippocampal place area using cortex-based alignment and cross-validation (2017) <a href="https://drive.google.com/file/d/1xVBjvcyoz_FuIWIN_CtH3ZZIt4MuSIig/view?usp=sharing" target="_blank">NeuroImage</a>.
 
 1. Grill-Spector, K., Weiner, K. S., Gomez, J., Stigliani, A, Natu, V. The functional neuroanatomy of face perception: From brain measurements to deep neural networks (2017) <a href="https://drive.google.com/file/d/1IIoQV5uE_zLHLRxnb4Kl1HNbHChFinYL/view?usp=sharing" target="_blank">NeuroImage</a>.
 
