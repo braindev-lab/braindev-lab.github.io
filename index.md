@@ -11,11 +11,11 @@ cover:  true
 
  <div class="row">
   <div class="column" markdown="1">
-  The human brain undergoes dramatic changes in the time between birth and adulthood. From MRI to microscopy, we employ a range of techniques to study the nature of this development, and more importantly, what happens when this development goes awry. Below are some areas of research on which the lab currently focuses.
+  The human brain undergoes dramatic changes in the time between birth and adulthood. In fact, the human brain shows the most protracted development of any species, making it uniquely sensitive to environmental influence and our experiences. From MRI to microscopy, we employ a range of techniques to study the nature of this development, and more importantly, what happens when this development goes awry. In addition to pursuing scientific discoveries, the lab is a teaching environment committed to training students and scientists from all backgrounds. Below are some areas of research on which the lab currently focuses.
   </div>
   
   <div class="column">
-  	<img class="lab-logo" src="/assets/img/logo.png" alt="BrainDevLab Logo" style="height: 100%; width: 100%; object-fit: contain"/>
+  	<img class="lab-logo" src="/assets/img/logo-tight.png" alt="BrainDevLab Logo" style="height: 100%; width: 100%; object-fit: contain"/>
   	</div>
 </div> 
 

@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 2022
 
-1. Liu, X., d'Oleire Uquillas, F., Viaene, A. N., Zhen, Z., Gomez, J. A multifaceted gradient in human cerebellum of structural and functional development (2022) <a href="https://www.nature.com/articles/s41593-022-01136-z" target="_blank">Nature Neuroscience</a>.
+1. Liu, X., d'Oleire Uquillas, F., Viaene, A. N., Zhen, Z., Gomez, J. A multifaceted gradient in human cerebellum of structural and functional development (2022) <a href="https://t.co/NHfeBy5T0y" target="_blank">Nature Neuroscience</a>.
 
 ## 2021
 
