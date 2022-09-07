@@ -3,7 +3,7 @@ layout: page
 title:  The Lab
 cover:  true 
 ---
-# Mission
+## Mission
 
  <div class="row">
  	
