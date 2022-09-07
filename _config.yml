@@ -29,7 +29,7 @@ description:           >
   The Brain Development Laboratory of the Princeton Neuroscience Institute
 
 # A shorter description for the sidebar.
-tagline:               Princeton Neuroscience Institute
+tagline:               <a href="https://pni.princeton.edu/" target="_blank">Princeton Neuroscience Institute</a>
 
 # A list of keywords for your blog
 keywords:              []
