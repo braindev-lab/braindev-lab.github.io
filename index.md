@@ -12,7 +12,7 @@ cover:  true
   
   <div class="column">
   	<img class="lab-logo" src="/assets/img/logo-tight.png" alt="BrainDevLab Logo" style="height: 100%; width: 100%; object-fit: contain"/>
-  	</div>
+  </div>
  </div> 
 
 ***
