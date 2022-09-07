@@ -29,10 +29,10 @@ description:           >
   The Brain Development Laboratory of the Princeton Neuroscience Institute
 
 # A shorter description for the sidebar.
-tagline:               <a href="https://pni.princeton.edu/" target="_blank">Princeton Neuroscience Institute</a>
+tagline:               Princeton Neuroscience Institute
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Jesse, Gomez, Neuroscience, Brain, Development, Lab, Princeton, fMRI, MRI]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -366,11 +366,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+ social:
+   name:                Jesse Gomez
+   links:
+     - https://twitter.com/jessegomezbrain
+     - https://github.com/
 
 
 # Plugin Configs
