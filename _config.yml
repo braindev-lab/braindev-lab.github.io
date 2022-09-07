@@ -356,8 +356,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+ twitter:
+   username:            <@JesseGomezBrain>
 
 # Used for facebook open graph
 # facebook:
