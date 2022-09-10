@@ -6,7 +6,7 @@ cover:  true
 
 ## Mission
 
-<div class="row" markdown="1">
+<div>
 	The human brain undergoes dramatic changes in the time between birth and adulthood.
 	In fact, the human brain shows the most protracted development of any species, making
 	it uniquely sensitive to environmental influence and our experiences. From MRI to
@@ -21,14 +21,6 @@ cover:  true
 
 ## Experience and the brain:
 
-<div class="row" markdown="1">
-	To what extent does experience sculpt the function and topography of human cortex?
-	Through magnetic resonance imaging, we seek to create models relating experience
-	across development with the emergence of structural and functional organization in
-	the brain. Importantly, we can being to understand what happens when this development
-	is disrupted through either atypical childhood experiences or disorders. 
-</div>
-
 <div>
 	To what extent does experience sculpt the function and topography of human cortex?
 	Through magnetic resonance imaging, we seek to create models relating experience
@@ -39,7 +31,7 @@ cover:  true
 
 ## The role of tissue:
 
-<div class="row" markdown="1">
+<div>
 	Studying brain function is as equally important as understanding the structures that
 	make these computations possible. Using advanced MRI techniques like
 	diffusion-weighted (DWI) and quantitative imaging (qMRI), we study how developmental
@@ -52,7 +44,7 @@ cover:  true
 
 ## The origins of organization:
 
-<div class="row" markdown="1">
+<div>
 	While we have made much progress in mapping out the topographical organization of
 	function across the human brain, the origins of this organization are still a bit of
 	a mystery. We approach this problem from two scales, a broad scale using MRI to
