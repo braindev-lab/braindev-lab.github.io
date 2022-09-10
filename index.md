@@ -19,18 +19,18 @@ cover:  true
 
 ## Experience and the brain:
 
- <div class="row">
-   <div class="column">
-  	<img class="lab-logo" src="/assets/img/nintendo.png" alt="Child playing Nintendo" style="height: 100%; width: 100%; object-fit: contain"/>
-  </div>
+<div class="row">
+	<div class="column">
+		<img class="lab-logo" src="/assets/img/nintendo.png" alt="Child playing Nintendo" style="height: 100%; width: 100%; object-fit: contain"/>
+	</div>
  
-  <div class="column" markdown="1">
-  To what extent does experience sculpt the function and topography of human cortex?
-  Through magnetic resonance imaging, we seek to create models relating experience across
-  development with the emergence of structural and functional organization in the brain.
-  Importantly, we can being to understand what happens when this development goes awry.
-  </div>
- </div>  
+	<div class="column" markdown="1">
+		To what extent does experience sculpt the function and topography of human cortex?
+		Through magnetic resonance imaging, we seek to create models relating experience across
+		development with the emergence of structural and functional organization in the brain.
+		Importantly, we can being to understand what happens when this development goes awry.
+	</div>
+</div>  
 
 ## The role of tissue:
 
