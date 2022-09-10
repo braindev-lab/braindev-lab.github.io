@@ -19,23 +19,41 @@ cover:  true
 	in touch!
 </div>
 
-***
-
 ## Experience and the brain:
 
-Test Line 
+<div class="row" markdown="1">
+	To what extent does experience sculpt the function and topography of human cortex?
+	Through magnetic resonance imaging, we seek to create models relating experience
+	across development with the emergence of structural and functional organization in
+	the brain. Importantly, we can being to understand what happens when this development
+	is disrupted through either atypical childhood experiences or disorders. 
+</div>
 
 ## The role of tissue:
 
-Line 111
-Line 2 
+<div class="row" markdown="1">
+	Studying brain function is as equally important as understanding the structures that
+	make these computations possible. Using advanced MRI techniques like
+	diffusion-weighted (DWI) and quantitative imaging (qMRI), we study how developmental
+	and individual differences in the cortex and connections of the brain underlie
+	changes and variability in behavioral skills like reading and recognizing. We also
+	seek to understand the source of these in vivo measures using immunohistochemistry to
+	image fine-scale structures like proteins and lipids, and quantify their change
+	across development.
+</div>
 
 ## The origins of organization:
 
-Line 1
-Line 2
-<!--author-->
+<div class="row" markdown="1">
+	While we have made much progress in mapping out the topographical organization of
+	function across the human brain, the origins of this organization are still a bit of
+	a mystery. We approach this problem from two scales, a broad scale using MRI to
+	measure how unique experience or stimuli can change brain organization, and a finer
+	scale using gene transcription and cytoarchitecture to see how anatomy governs and
+	constrains a region's inputs and computations.
+</div>
 
+<!--author-->
 
 <style type="text/css">
   .row {
