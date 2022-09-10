@@ -30,11 +30,7 @@ cover:  true
 </div>
 
 <div markdown="1">
-	To what extent does experience sculpt the function and topography of human cortex?
-	Through magnetic resonance imaging, we seek to create models relating experience
-	across development with the emergence of structural and functional organization in
-	the brain. Importantly, we can being to understand what happens when this development
-	is disrupted through either atypical childhood experiences or disorders. 
+	To what extent does experience sculpt the function and topography of human cortex? Through magnetic resonance imaging, we seek to create models relating experience across development with the emergence of structural and functional organization in the brain. Importantly, we can being to understand what happens when this development is disrupted through either atypical childhood experiences or disorders. 
 </div>
 
 ## The role of tissue:
