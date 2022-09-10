@@ -6,7 +6,7 @@ cover:  true
 
 ## Mission
 
-<div class="row">
+<div class="row" markdown="1">
 	The human brain undergoes dramatic changes in the time between birth and adulthood.
 	In fact, the human brain shows the most protracted development of any species, making
 	it uniquely sensitive to environmental influence and our experiences. From MRI to
