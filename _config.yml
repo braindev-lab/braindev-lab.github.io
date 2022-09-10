@@ -3,14 +3,14 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://braindev-lab.github.io
+url:                  https://braindev-lab.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # baseurl:               '/hydejack-starter-kit'
-baseurl:               ''
+# baseurl:               ''
 
 
 # General settings
@@ -43,9 +43,9 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Jesse Gomez
-  email:               <mail@domain.tld>
+#  email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  twitter:             @JesseGomezBrain
+#  twitter:             @JesseGomezBrain
 
 # Add links to the sidebar.
 menu:
@@ -356,8 +356,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
- twitter:
-   username:            @JesseGomezBrain
+# twitter:
+#   username:            @JesseGomezBrain
 
 # Used for facebook open graph
 # facebook:
@@ -366,11 +366,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                Jesse Gomez
-   links:
-     - https://twitter.com/jessegomezbrain
-     - https://github.com/
+# social:
+#   name:                Jesse Gomez
+#   links:
+#     - https://twitter.com/jessegomezbrain
+#     - https://github.com/
 
 
 # Plugin Configs

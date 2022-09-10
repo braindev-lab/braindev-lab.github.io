@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "name": "BrainDevLab",
-  "short_name": "BrainDevLab",
-  "description": "The Brain Development Laboratory of the Princeont Neuroscience Institute",
+  "name": "The Brain Development Lab",
+  "short_name": "The Brain Development Lab",
+  "description": "The Brain Development Laboratory of the Princeton Neuroscience Institute",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "rgb(25,55,71)",
   "background_color": "#fff",
