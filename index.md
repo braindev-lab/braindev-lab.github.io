@@ -4,9 +4,8 @@ title:  The Lab
 cover:  true 
 ---
 
-<div>
-	<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="450" height="450"/>
-</div>
+<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="450" height="450"/>
+
 
 ## Mission
 
