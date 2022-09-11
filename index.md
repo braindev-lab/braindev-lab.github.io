@@ -4,11 +4,11 @@ title:  The Lab
 cover:  true 
 ---
 
-## Mission
-
 <div>
 	<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="300" height="300"/>
 </div>
+
+## Mission
 
 <p>
 	The human brain undergoes dramatic changes in the time between birth and adulthood.
@@ -40,6 +40,10 @@ cover:  true
 ## The role of tissue:
 
 <div>
+	<img class="fusiform" src="/assets/img/fusiform.png" alt="microscop slide of brain tissue gyrus" width="100" height="100"/>
+</div>
+
+<p>
 	Studying brain function is as equally important as understanding the structures that
 	make these computations possible. Using advanced MRI techniques like
 	diffusion-weighted (DWI) and quantitative imaging (qMRI), we study how developmental
@@ -48,18 +52,22 @@ cover:  true
 	seek to understand the source of these in vivo measures using immunohistochemistry to
 	image fine-scale structures like proteins and lipids, and quantify their change
 	across development.
-</div>
+</p>
 
 ## The origins of organization:
 
 <div>
+	<img class="ventral" src="/assets/img/ventral.png" alt="ventral view of a brain surface" width="110" height="80"/>
+</div>
+
+<p>
 	While we have made much progress in mapping out the topographical organization of
 	function across the human brain, the origins of this organization are still a bit of
 	a mystery. We approach this problem from two scales, a broad scale using MRI to
 	measure how unique experience or stimuli can change brain organization, and a finer
 	scale using gene transcription and cytoarchitecture to see how anatomy governs and
 	constrains a region's inputs and computations.
-</div>
+</p>
 
 ## Test Section
 
@@ -118,7 +126,16 @@ cover:  true
   img.nintendo {
   	float: left;
   	margin: 5px;
-  	height
+  }
+  
+  img.fusiform {
+    float: right;
+    margin: 5px;
+  }
+  
+  img.ventral {
+    float: left;
+    margin: 5px;
   }
   
 </style>
