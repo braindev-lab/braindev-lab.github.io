@@ -5,7 +5,7 @@ cover:  true
 ---
 
 <div>
-	<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="300" height="300"/>
+	<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="450" height="450"/>
 </div>
 
 ## Mission
@@ -69,31 +69,6 @@ cover:  true
 	constrains a region's inputs and computations.
 </p>
 
-## Test Section
-
-<div>
-	<img class="nintendo" src="/assets/img/nintendo.png" alt="boy playing nintendo" width="100" height="100"/>
-</div>
-
-<p>
-	How many times were you frustrated while looking
-	out for a good collection of programming/algorithm
-	/interview questions? What did you expect and what
-	did you get? This portal has been created to
-	provide well written, well thought and well
-	explained solutions for selected questions.
-	An IIT Roorkee alumnus and founder of GeeksforGeeks.
-	He loves to solve programming problems in most
-	efficient ways. Apart from GeeksforGeeks, he has
-	worked with DE Shaw and Co. as a software developer
-	and JIIT Noida as an assistant professor. It is a
-	good platform to learn programming. It is an
-	educational website. Prepare for the Recruitment
-	drive of product based companies like Microsoft,
-	Amazon, Adobe etc with a free online placement
-	preparation course.
-</p>
-
 <!--author-->
 
 <style type="text/css">
@@ -116,7 +91,7 @@ cover:  true
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px;
+    padding: 1px;
   }
   
   h1 {
@@ -129,7 +104,7 @@ cover:  true
   }
   
   img.fusiform {
-    float: right;
+    float: left;
     margin: 5px;
   }
   
