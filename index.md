@@ -56,7 +56,7 @@ cover:  true
 ## Test Section
 
 <div>
-	<img class="nintendo" src="/assets/img/nintendo.png" alt="boy playing nintendo"/>
+	<img class="nintendo" src="/assets/img/nintendo.png" alt="boy playing nintendo" width="100" height="100"/>
 </div>
 
 <p>
@@ -103,6 +103,7 @@ cover:  true
   img.nintendo {
   	float: left;
   	margin: 5px;
+  	height
   }
   
 </style>
