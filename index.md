@@ -56,7 +56,7 @@ cover:  true
 ## Test Section
 
 <div>
-	<img class="nintendo" src="/assets/img/nintendo.jpg" alt="OHBM 2015"/>
+	<img class="nintendo" src="/assets/img/nintendo.png" alt="boy playing nintendo"/>
 </div>
 
 <p>
