@@ -7,6 +7,10 @@ cover:  true
 ## Mission
 
 <div>
+	<img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="300" height="300"/>
+</div>
+
+<p>
 	The human brain undergoes dramatic changes in the time between birth and adulthood.
 	In fact, the human brain shows the most protracted development of any species, making
 	it uniquely sensitive to environmental influence and our experiences. From MRI to
@@ -17,17 +21,21 @@ cover:  true
 	diversity of discoveries. Below are some areas of research on which the lab
 	currently focuses. If you're interested in participating in an experiment, please get
 	in touch!
-</div>
+</p>
 
 ## Experience and the brain:
 
 <div>
+	<img class="nintendo" src="/assets/img/nintendo.png" alt="boy playing nintendo" width="100" height="100"/>
+</div>
+
+<p>
 	To what extent does experience sculpt the function and topography of human cortex?
 	Through magnetic resonance imaging, we seek to create models relating experience
 	across development with the emergence of structural and functional organization in
 	the brain. Importantly, we can being to understand what happens when this development
 	is disrupted through either atypical childhood experiences or disorders. 
-</div>
+</p>
 
 ## The role of tissue:
 
@@ -90,6 +98,13 @@ cover:  true
   }
 
   img.lab-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+  }
+  
+  img.logo2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
