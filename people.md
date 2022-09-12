@@ -65,7 +65,7 @@ cover:  true
   }
   
   img.jesse {
-  	float: left;
+  	display:block;
   	margin: 5px;
   	border-radius: 50%;
   }
