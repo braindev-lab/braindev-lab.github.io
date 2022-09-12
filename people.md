@@ -11,11 +11,11 @@ cover:  true
 	<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 </div>
 
-<div style="white-space: pre">
-	Principal Investigator
-	jessegomez [at] princeton [dot] edu
-	PNI Room 234
-</div>
+<p>
+	Principal Investigator<br>
+	jessegomez [at] princeton [dot] edu<br>
+	PNI Room 234<br>
+</p>
 
 ## The role of tissue:
 
