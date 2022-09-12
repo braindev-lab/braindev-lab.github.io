@@ -75,14 +75,16 @@ cover:  true
 
 ## Lab Alumni
 
-Folarin Okulaja
-Sidney Gregorek 
-Zach Yazdani
-Matthew Trotter
-Stuart Duffield
-Allie Reynolds
-Niranjana Bienkowska
-Shannon Chen
+<p>
+	Folarin Okulaja<br>
+	Sidney Gregorek<br> 
+	Zach Yazdani<br>
+	Matthew Trotter<br>
+	Stuart Duffield<br>
+	Allie Reynolds<br>
+	Niranjana Bienkowska<br>
+	Shannon Chen<br>
+</p>
 
 <!--author-->
 
@@ -105,15 +107,11 @@ Shannon Chen
   	border-radius: 50%;
   }
   
-  img.fusiform {
+  img.student {
     float: left;
     margin: 5px;
   }
   
-  img.ventral {
-    float: left;
-    margin: 5px;
-  }
   
 </style>
 
