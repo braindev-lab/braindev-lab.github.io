@@ -17,37 +17,72 @@ cover:  true
 	PNI Room 234<br>
 </p>
 
-## The role of tissue:
+## Fred d'Oleire Uquillas
 
 <div>
-	<img class="fusiform" src="/assets/img/fusiform.png" alt="microscop slide of brain tissue gyrus" width="100" height="100"/>
+	<img class="student" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
 </div>
 
 <p>
-	Studying brain function is as equally important as understanding the structures that
-	make these computations possible. Using advanced MRI techniques like
-	diffusion-weighted (DWI) and quantitative imaging (qMRI), we study how developmental
-	and individual differences in the cortex and connections of the brain underlie
-	changes and variability in behavioral skills like reading and recognizing. We also
-	seek to understand the source of these in vivo measures using immunohistochemistry to
-	image fine-scale structures like proteins and lipids, and quantify their change
-	across development.
+	Graduate Student<br>
+	Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
+	member of the Gomez and Wang labs. His research focuses on large scale human brain 
+	networks and cerebellar contributions to cortical structure and function across 
+	development and the lifespan. 
 </p>
 
-## The origins of organization:
+## Edan Daniel
 
 <div>
-	<img class="ventral" src="/assets/img/ventral.png" alt="ventral view of a brain surface" width="110" height="80"/>
+	<img class="student" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
 </div>
 
 <p>
-	While we have made much progress in mapping out the topographical organization of
-	function across the human brain, the origins of this organization are still a bit of
-	a mystery. We approach this problem from two scales, a broad scale using MRI to
-	measure how unique experience or stimuli can change brain organization, and a finer
-	scale using gene transcription and cytoarchitecture to see how anatomy governs and
-	constrains a region's inputs and computations.
+	Graduate Student<br>
+	Edan is a PhD student in PNI. She previously worked on EEG analyses in the Dinstein
+	Lab at Ben-Gurion University in Israel, and now researches how visual experience
+	during either childhood or adulthood shapes the organization and computations 
+	that occur within visual cortex. 
 </p>
+
+## Omar Singleton
+
+<div>
+	<img class="student" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
+</div>
+
+<p>
+	Graduate Student<br>
+	Omar Single is a PhD student in PNI. He previously worked on neuroimaging projects at
+	MGH, and now studies how the human thalamus develops across the lifespan and the roles
+	it plays in mediating developmental changes in the cortex in neurotypical individuals 
+	and those diagnosed with psychiatric disorders. 
+</p>
+
+## Patricia Hoyos
+
+<div>
+	<img class="student" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
+</div>
+
+<p>
+	Graduate Student<br>
+	Patricia Hoyos is a PhD student in PNI, and member of the Gomez and Kastner labs. She
+	is currently studying the development of the human dorsal stream to understand how 
+	changes in our attentional abilities and biases are shaped by structural and 
+	computational changes occurring within visual cortex. 
+</p>
+
+## Lab Alumni
+
+Folarin Okulaja
+Sidney Gregorek 
+Zach Yazdani
+Matthew Trotter
+Stuart Duffield
+Allie Reynolds
+Niranjana Bienkowska
+Shannon Chen
 
 <!--author-->
 
