@@ -12,7 +12,7 @@ cover:  true
 </div>
 
 <p>
-	Principal Investigator<br>
+	<b>Principal Investigator</b><br>
 	jessegomez [at] princeton [dot] edu<br>
 	PNI Room 234<br>
 </p>
@@ -53,7 +53,7 @@ cover:  true
 
 <p>
 	<b>Graduate Student</b><br>
-	Omar Single is a PhD student in PNI. He previously worked on neuroimaging projects at
+	Omar Singleton is a PhD student in PNI. He previously worked on neuroimaging projects at
 	MGH, and now studies how the human thalamus develops across the lifespan and the roles
 	it plays in mediating developmental changes in the cortex in neurotypical individuals 
 	and those diagnosed with psychiatric disorders. 
