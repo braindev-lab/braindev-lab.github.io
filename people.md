@@ -20,11 +20,11 @@ cover:  true
 ## Fred d'Oleire Uquillas
 
 <div>
-	<img class="student" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
+	<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
 </div>
 
 <p>
-	Graduate Student<br>
+	<b>Graduate Student</b><br>
 	Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
 	member of the Gomez and Wang labs. His research focuses on large scale human brain 
 	networks and cerebellar contributions to cortical structure and function across 
@@ -34,11 +34,11 @@ cover:  true
 ## Edan Daniel
 
 <div>
-	<img class="student" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
+	<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
 </div>
 
 <p>
-	Graduate Student<br>
+	<b>Graduate Student</b><br>
 	Edan is a PhD student in PNI. She previously worked on EEG analyses in the Dinstein
 	Lab at Ben-Gurion University in Israel, and now researches how visual experience
 	during either childhood or adulthood shapes the organization and computations 
@@ -48,11 +48,11 @@ cover:  true
 ## Omar Singleton
 
 <div>
-	<img class="student" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
+	<img class="omar" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
 </div>
 
 <p>
-	Graduate Student<br>
+	<b>Graduate Student</b><br>
 	Omar Single is a PhD student in PNI. He previously worked on neuroimaging projects at
 	MGH, and now studies how the human thalamus develops across the lifespan and the roles
 	it plays in mediating developmental changes in the cortex in neurotypical individuals 
@@ -62,11 +62,11 @@ cover:  true
 ## Patricia Hoyos
 
 <div>
-	<img class="student" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
+	<img class="patricia" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
 </div>
 
 <p>
-	Graduate Student<br>
+	<b>Graduate Student</b><br>
 	Patricia Hoyos is a PhD student in PNI, and member of the Gomez and Kastner labs. She
 	is currently studying the development of the human dorsal stream to understand how 
 	changes in our attentional abilities and biases are shaped by structural and 
@@ -107,9 +107,28 @@ cover:  true
   	border-radius: 50%;
   }
   
-  img.student {
-    float: left;
-    margin: 5px;
+  img.omar {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.fred {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.edan {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.patricia {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
   }
   
   
