@@ -10,7 +10,7 @@ permalink: /code/
 </div>
 
 <div>
-	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" height="65"/>
+	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
 		
 <p>
