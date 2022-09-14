@@ -9,6 +9,8 @@ permalink: /code/
 <div>
 </div>
 
+
+
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -19,12 +21,6 @@ permalink: /code/
 </p>
 
 
-
-
-
-
-<div>
-</div>
 
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
@@ -38,10 +34,6 @@ permalink: /code/
 
 
 
-
-<div>
-</div>
-
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -53,10 +45,6 @@ permalink: /code/
 
 
 
-
-
-<div>
-</div>
 
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
@@ -70,10 +58,6 @@ permalink: /code/
 
 
 
-
-<div>
-</div>
-
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -86,10 +70,6 @@ permalink: /code/
 
 
 
-
-<div>
-</div>
-
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -98,9 +78,6 @@ permalink: /code/
 	<b>Neuropythy</b><br>
 	<a href="https://github.com/noahbenson/neuropythy" target="_blank">https://github.com/noahbenson/neuropythy</a>
 </p>
-
-
-
 
 
 
