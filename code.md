@@ -8,6 +8,21 @@ permalink: /code/
 
 ## Vistasoft
 
+<div class="row">
+	<div class="column">
+		<div>
+			<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="100" height="100"/>
+		</div>
+		
+		<p>
+			<b>Vistasoft</b>
+		</p>
+	</div>
+  
+	<div class="column" markdown="1">
+		<a href="https://github.com/vistalab/vistasoft" target="_blank">https://github.com/vistalab/vistasoft</a>
+	</div>
+</div> 
 
 
 ## 2022
