@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code
-permalink: /publications/
+permalink: /code/
 ---
 
 ## Repositories and toolboxes for data analysis and visualization
