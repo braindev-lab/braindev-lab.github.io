@@ -10,7 +10,9 @@ permalink: /publications/
 
 <div class="row">
 	<div class="column">
-		<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="100" height="100"/>
+		<div>
+			<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="100" height="100"/>
+		</div>
 		
 		<p>
 			<b>Vistasoft</b>
