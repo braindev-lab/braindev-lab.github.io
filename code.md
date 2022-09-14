@@ -116,7 +116,7 @@ permalink: /code/
 	&nbsp;
 </p>
 
-***
+
 
 <style type="text/css">
 

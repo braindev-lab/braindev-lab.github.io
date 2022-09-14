@@ -54,7 +54,7 @@ permalink: /publications/
 
 1. Dalrymple, K., Gomez, J., Duchaine, B. (2012) <a href="https://www.researchgate.net/publication/270630908_CFMT-Kids_A_new_test_of_face_memory_for_children" target="_blank">Journal of Vision</a>.
 
-***
+
 
 <style type="text/css">
 
