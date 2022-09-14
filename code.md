@@ -21,6 +21,11 @@ permalink: /code/
 
 
 
+
+<p>
+	&nbsp;
+</p>
+
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -32,6 +37,10 @@ permalink: /code/
 
 
 
+
+<p>
+	&nbsp;
+</p>
 
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
@@ -45,6 +54,10 @@ permalink: /code/
 
 
 
+<p>
+	&nbsp;
+</p>
+
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -56,6 +69,10 @@ permalink: /code/
 
 
 
+
+<p>
+	&nbsp;
+</p>
 
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
@@ -69,6 +86,10 @@ permalink: /code/
 
 
 
+<p>
+	&nbsp;
+</p>
+
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
 </div>
@@ -79,9 +100,10 @@ permalink: /code/
 </p>
 
 
+<p>
+	&nbsp;
+</p>
 
-<div>
-</div>
 ***
 
 <style type="text/css">
