@@ -6,8 +6,9 @@ permalink: /code/
 
 ## Repositories and toolboxes for data analysis and visualization
 
-<div>
-</div>
+<p>
+	
+</p>
 
 <div>
 	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="65" height="65"/>
