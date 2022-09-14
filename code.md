@@ -7,7 +7,10 @@ permalink: /code/
 ## Repositories and toolboxes for data analysis and visualization
 
 <div>
-	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" width="75" height="75"/>
+</div>
+
+<div>
+	<img class="brain" src="/assets/img/brain.svg" alt="orange colored cartoon brain" height="65"/>
 </div>
 		
 <p>
@@ -16,6 +19,8 @@ permalink: /code/
 </p>
 
 
+<div>
+</div>
 ***
 
 <style type="text/css">
