@@ -73,6 +73,20 @@ cover:  true
 	computational changes occurring within visual cortex. 
 </p>
 
+## Anna Williams
+
+<div>
+	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna williams" width="200" height="200"/>
+</div>
+
+<p>
+	<b>Undergraduate Research Assistant</b><br>
+	Anna Williams is a research assistant in the lab. Beginning as a summer intern her at
+	Princeton, she is currently helping pilot new behavioral experiments designed to test
+	visuo-spatial attention development. Using this data, she is designing machine
+	learning models for the classification of attentional biases.  
+</p>
+
 ## Lab Alumni
 
 <p>
@@ -126,6 +140,12 @@ cover:  true
   }
   
   img.patricia {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.anna {
   	display:block;
   	margin: 5px;
   	border-radius: 50%;
