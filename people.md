@@ -73,6 +73,19 @@ cover:  true
 	computational changes occurring within visual cortex. 
 </p>
 
+## Damola Ogunlade
+
+<div>
+	<img class="damola" src="/assets/img/damola.jpg" alt="photo of damola ogunlade" width="200" height="200"/>
+</div>
+
+<p>
+	<b>Graduate Student</b><br>
+	Damola completed her undergraduate degree in neuroscience  at the University of 
+	Pennsylvania. She is a first-year student in PNI rotating in the lab where she'll be
+	studying auditory cortex development through novel MRI methods. 
+</p>
+
 ## Anna Williams
 
 <div>
@@ -85,6 +98,26 @@ cover:  true
 	Princeton, she is currently helping pilot new behavioral experiments designed to test
 	visuo-spatial attention development. Using this data, she is designing machine
 	learning models for the classification of attentional biases.  
+</p>
+
+## Rowen Gesue
+
+<div>
+	<img class="rowen" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
+</div>
+
+<p>
+	<b>Undergraduate Student</b><br>  
+</p>
+
+## Mariam Latif
+
+<div>
+	<img class="mariam" src="/assets/img/mariam.jpg" alt="photo of mariam latif" width="200" height="200"/>
+</div>
+
+<p>
+	<b>Undergraduate Student</b><br>  
 </p>
 
 ## Lab Alumni
@@ -145,7 +178,25 @@ cover:  true
   	border-radius: 50%;
   }
   
+  img.damola {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
   img.anna {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.mariam {
+  	display:block;
+  	margin: 5px;
+  	border-radius: 50%;
+  }
+  
+  img.rowen {
   	display:block;
   	margin: 5px;
   	border-radius: 50%;
