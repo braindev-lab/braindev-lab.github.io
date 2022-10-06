@@ -31,10 +31,9 @@ cover:  true
 </div>
 
 
-<br>
 
-## Edan Daniel
-<div>
+<div style="width: 20%; float:left">
+	<h2>Edan Daniel</h2>
 	<div>
 		<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
 	</div>
