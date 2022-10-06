@@ -3,33 +3,35 @@ layout: page
 title:  People
 cover:  true 
 ---
-
-
-## Jesse Gomez PH.D.
-
 <div>
-	<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
+	<div style="width: 33%; float:left">
+		<div>
+			## Jesse Gomez PH.D.
+			<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
+		</div>
+		<p>
+			<b>Principal Investigator</b><br>
+			jessegomez [at] princeton [dot] edu<br>
+			PNI Room 234<br>
+		</p>
+	</div>
+	<div style="width: 66%; float:right">
+		<div>
+			## Fred d'Oleire Uquillas
+			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
+		</div>
+		<p>
+		<b>Graduate Student</b><br>
+		Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
+		member of the Gomez and Wang labs. His research focuses on large scale human brain 
+		networks and cerebellar contributions to cortical structure and function across 
+		development and the lifespan. 
+		</p>
+	</div>
 </div>
 
-<p>
-	<b>Principal Investigator</b><br>
-	jessegomez [at] princeton [dot] edu<br>
-	PNI Room 234<br>
-</p>
 
-## Fred d'Oleire Uquillas
 
-<div>
-	<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
-</div>
-
-<p>
-	<b>Graduate Student</b><br>
-	Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
-	member of the Gomez and Wang labs. His research focuses on large scale human brain 
-	networks and cerebellar contributions to cortical structure and function across 
-	development and the lifespan. 
-</p>
 
 ## Edan Daniel
 
@@ -136,72 +138,72 @@ cover:  true
 <!--author-->
 
 <style type="text/css">
-  .row {
-    display: flex;
-  }
+	.row {
+		display: flex;
+	}
 
-  .column {
-    flex: 50%;    
-  }
-  
-  h1 {
-  	color: orange;
-  }
-  
-  img.jesse {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.omar {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.fred {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.edan {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.patricia {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.damola {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.anna {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.mariam {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  img.rowen {
-  	display:block;
-  	margin: 5px;
-  	border-radius: 50%;
-  }
-  
-  
+	.column {
+		flex: 50%;    
+	}
+
+	h1 {
+		color: orange;
+	}
+
+	img.jesse {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.omar {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.fred {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.edan {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.patricia {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.damola {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.anna {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.mariam {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+	img.rowen {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
+
+
 </style>
 
