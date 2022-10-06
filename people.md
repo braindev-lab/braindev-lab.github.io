@@ -6,7 +6,7 @@ cover:  true
 <div>
 	<div style="width: 20%; float:left">
 		<div>
-			<h1>Jesse Gomez PH.D.</h1>
+			<h2>Jesse Gomez PH.D.</h2>
 			<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 		</div>
 		<p>
@@ -17,7 +17,7 @@ cover:  true
 	</div>
 	<div style="width: 60%; float:right">
 		<div>
-			<h1>Fred d'Oleire Uquillas</h1>
+			<h2>Fred d'Oleire Uquillas</h2>
 			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
 		</div>
 		<p>
@@ -31,7 +31,7 @@ cover:  true
 </div>
 
 
-
+<br>
 
 ## Edan Daniel
 <div>
