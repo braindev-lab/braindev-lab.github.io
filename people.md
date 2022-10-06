@@ -6,7 +6,7 @@ cover:  true
 <div>
 	<div style="width: 20%; float:left">
 		<div>
-			## Jesse Gomez PH.D.
+			<h1>Jesse Gomez PH.D.</h1>
 			<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 		</div>
 		<p>
@@ -17,7 +17,7 @@ cover:  true
 	</div>
 	<div style="width: 60%; float:right">
 		<div>
-			## Fred d'Oleire Uquillas
+			<h1>Fred d'Oleire Uquillas</h1>
 			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
 		</div>
 		<p>
@@ -34,25 +34,23 @@ cover:  true
 
 
 ## Edan Daniel
-
 <div>
-	<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
+	<div>
+		<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
+	</div>
+	<p>
+		<b>Graduate Student</b><br>
+		Edan is a PhD student in PNI. She previously worked on EEG analyses in the Dinstein
+		Lab at Ben-Gurion University in Israel, and now researches how visual experience
+		during either childhood or adulthood shapes the organization and computations 
+		that occur within visual cortex. 
+	</p>
 </div>
 
-<p>
-	<b>Graduate Student</b><br>
-	Edan is a PhD student in PNI. She previously worked on EEG analyses in the Dinstein
-	Lab at Ben-Gurion University in Israel, and now researches how visual experience
-	during either childhood or adulthood shapes the organization and computations 
-	that occur within visual cortex. 
-</p>
-
 ## Omar Singleton
-
 <div>
 	<img class="omar" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
 </div>
-
 <p>
 	<b>Graduate Student</b><br>
 	Omar Singleton is a PhD student in PNI. He previously worked on neuroimaging projects at
@@ -62,11 +60,9 @@ cover:  true
 </p>
 
 ## Patricia Hoyos
-
 <div>
 	<img class="patricia" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
 </div>
-
 <p>
 	<b>Graduate Student</b><br>
 	Patricia Hoyos is a PhD student in PNI, and member of the Gomez and Kastner labs. She
@@ -76,11 +72,9 @@ cover:  true
 </p>
 
 ## Damola Ogunlade
-
 <div>
 	<img class="damola" src="/assets/img/damola.jpg" alt="photo of damola ogunlade" width="200" height="200"/>
 </div>
-
 <p>
 	<b>Graduate Student</b><br>
 	Damola completed her undergraduate degree in neuroscience  at the University of 
@@ -89,11 +83,9 @@ cover:  true
 </p>
 
 ## Anna Williams
-
 <div>
 	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna williams" width="200" height="200"/>
 </div>
-
 <p>
 	<b>Undergraduate Research Assistant</b><br>
 	Anna Williams is a research assistant in the lab. Beginning as a summer intern her at
@@ -103,11 +95,9 @@ cover:  true
 </p>
 
 ## Rowen Gesue
-
 <div>
 	<img class="rowen" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
 </div>
-
 <p>
 	<b>Undergraduate Student</b><br>  
 </p>
