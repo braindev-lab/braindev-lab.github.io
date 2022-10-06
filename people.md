@@ -4,7 +4,7 @@ title:  People
 cover:  true 
 ---
 <div>
-	<div style="width: 33%; float:left">
+	<div style="width: 20%; float:left">
 		<div>
 			## Jesse Gomez PH.D.
 			<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
@@ -15,7 +15,7 @@ cover:  true
 			PNI Room 234<br>
 		</p>
 	</div>
-	<div style="width: 80%; float:right">
+	<div style="width: 60%; float:right">
 		<div>
 			## Fred d'Oleire Uquillas
 			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
