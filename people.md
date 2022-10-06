@@ -15,7 +15,7 @@ cover:  true
 			PNI Room 234<br>
 		</p>
 	</div>
-	<div style="width: 66%; float:right">
+	<div style="width: 80%; float:right">
 		<div>
 			## Fred d'Oleire Uquillas
 			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
