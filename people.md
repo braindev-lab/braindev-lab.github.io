@@ -3,36 +3,34 @@ layout: page
 title:  People
 cover:  true 
 ---
+
 <div>
-	<div style="width: 20%; float:left">
-		<div>
-			<h2>Jesse Gomez PH.D.</h2>
-			<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
-		</div>
-		<p>
-			<b>Principal Investigator</b><br>
-			jessegomez [at] princeton [dot] edu<br>
-			PNI Room 234<br>
-		</p>
+	<div>
+		<h2>Jesse Gomez PH.D.</h2>
+		<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 	</div>
-	<div style="width: 60%; float:right">
-		<div>
-			<h2>Fred d'Oleire Uquillas</h2>
-			<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
-		</div>
-		<p>
-		<b>Graduate Student</b><br>
-		Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
-		member of the Gomez and Wang labs. His research focuses on large scale human brain 
-		networks and cerebellar contributions to cortical structure and function across 
-		development and the lifespan. 
-		</p>
-	</div>
+	<p>
+		<b>Principal Investigator</b><br>
+		jessegomez [at] princeton [dot] edu<br>
+		PNI Room 234<br>
+	</p>
 </div>
 
+<div>
+	<div>
+		<h2>Fred d'Oleire Uquillas</h2>
+		<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
+	</div>
+	<p>
+	<b>Graduate Student</b><br>
+	Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
+	member of the Gomez and Wang labs. His research focuses on large scale human brain 
+	networks and cerebellar contributions to cortical structure and function across 
+	development and the lifespan. 
+	</p>
+</div>
 
-
-<div style="width: 20%; float:left">
+<div>
 	<h2>Edan Daniel</h2>
 	<div>
 		<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
