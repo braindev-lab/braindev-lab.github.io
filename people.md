@@ -85,7 +85,7 @@ cover:  true
 </div>
 <p>
 	<b>Undergraduate Research Assistant</b><br>
-	Anna Williams is a research assistant in the lab. Beginning as a summer intern her at
+	Anna Williams is a research assistant in the lab. Beginning as a summer intern here at
 	Princeton, she is currently helping pilot new behavioral experiments designed to test
 	visuo-spatial attention development. Using this data, she is designing machine
 	learning models for the classification of attentional biases.  
