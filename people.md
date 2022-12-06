@@ -91,6 +91,22 @@ cover:  true
 	learning models for the classification of attentional biases.  
 </p>
 
+## Bing Li
+<div>
+	<img class="bing" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
+</div>
+<p>
+	<b>Undergraduate Student</b><br> 
+	I am an undergraduate senior majoring in neuroscience with a minor in computer 
+	science. I am interested in identifying biomarkers that could enhance the diagnosis 
+	or treatment of neurodevelopmental disorders using imaging techniques. At the Brain 
+	Development Lab, I worked with Fred to investigate the cerebellum-neocortex 
+	codevelopment in children with Autism Spectrum Disorder. For my ongoing senior 
+	thesis, I am continuing the investigation of cerebellar-neocortical pathways, 
+	focusing on their potential contribution to object recognition. During my free time, 
+	I love coloring, doing yoga, and spending time with friends and family. 
+</p>
+
 ## Rowen Gesue
 <div>
 	<img class="rowen" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
