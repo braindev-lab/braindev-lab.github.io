@@ -206,6 +206,12 @@ cover:  true
 		margin: 5px;
 		border-radius: 50%;
 	}
+	
+	img.bing {
+		display:block;
+		margin: 5px;
+		border-radius: 50%;
+	}
 
 
 </style>
