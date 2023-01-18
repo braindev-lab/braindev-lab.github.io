@@ -13,6 +13,12 @@ cover:  true
 		<b>Principal Investigator</b><br>
 		jessegomez [at] princeton [dot] edu<br>
 		PNI Room 234<br>
+		Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
+		is the principal investigator of the Brain Development Lab. He received his BA in
+		Neuroscience from Dartmouth College with Dr. Brad Duchaine, his PhD in
+		Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
+		completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
+		he teaches courses on Developmental and Cognitive Neuroscience.
 	</p>
 </div>
 
