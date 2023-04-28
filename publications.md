@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2023
+
+1. Himmelberg, M., Tuncok, E., Gomez, J., Grill-Spector, K., Carrasco, M., Winawer, J. Comparing retinotopic maps of children and adults reveals a late-stage change in how V1 samples the visual field (2023) <a href="https://www.nature.com/articles/s41467-023-37280-8" target="_blank">Nature Communications</a>.
+
 ## 2022
 
 1. Liu, X., d'Oleire Uquillas, F., Viaene, A. N., Zhen, Z., Gomez, J. A multifaceted gradient in human cerebellum of structural and functional development (2022) <a href="https://t.co/NHfeBy5T0y" target="_blank">Nature Neuroscience</a>.
