@@ -85,7 +85,7 @@ cover:  true
 	studying auditory cortex development through novel MRI methods. 
 </p>
 
-## Anna Williams
+## Anna L Williams
 <div>
 	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna williams" width="200" height="200"/>
 </div>
