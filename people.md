@@ -22,17 +22,23 @@ cover:  true
 	</p>
 </div>
 
+## Anna Lyn Williams
+<div>
+	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
+</div>
+<p>
+	<b>Lab Manager</b><br>
+
+</p>
+
 <div>
 	<div>
-		<h2>Fred d'Oleire Uquillas</h2>
+		<h2>Frederick d'Oleire Uquillas</h2>
 		<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
 	</div>
 	<p>
 	<b>Graduate Student</b><br>
-	Fred is a PhD student, Presidential Fellow, and Ford Fellow within PNI. He is a 
-	member of the Gomez and Wang labs. His research focuses on large scale human brain 
-	networks and cerebellar contributions to cortical structure and function across 
-	development and the lifespan. 
+	Frederick is a Presidential Fellow and PhD candidate in the neuroscience department at Princeton University. His research focuses on large scale brain networks and cerebellar contributions to cortical structure and function across the lifespan, and is supported by the National Science Foundation and National Academies of Sciences, Engineering and Medicine.
 	</p>
 </div>
 
@@ -83,18 +89,6 @@ cover:  true
 	Damola completed her undergraduate degree in neuroscience  at the University of 
 	Pennsylvania. She is a first-year student in PNI rotating in the lab where she'll be
 	studying auditory cortex development through novel MRI methods. 
-</p>
-
-## Anna L Williams
-<div>
-	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna williams" width="200" height="200"/>
-</div>
-<p>
-	<b>Undergraduate Research Assistant</b><br>
-	Anna Williams is a research assistant in the lab. Beginning as a summer intern here at
-	Princeton, she is currently helping pilot new behavioral experiments designed to test
-	visuo-spatial attention development. Using this data, she is designing machine
-	learning models for the classification of attentional biases.  
 </p>
 
 ## Bing Li
