@@ -29,7 +29,7 @@ cover:  true
 	</div>
 	<p>
 	<b>Lab Manager</b><br>
-    Anna is a research specialist at the Princeton Neuroscience Institute. She is currently examining cortical pleating of higher order dorsal stream regions, as well as the corresponding neural and behavioral development of visuospatial attention.
+    Anna is a research specialist at the Princeton Neuroscience Institute. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
 	</p>
 </div>
 
@@ -40,7 +40,7 @@ cover:  true
 	</div>
 	<p>
 	<b>Graduate Student</b><br>
-	Frederick is a Presidential Fellow and PhD candidate in the neuroscience department at Princeton University. His research focuses on large scale brain networks and cerebellar contributions to cortical structure and function across the lifespan, and is supported by the National Science Foundation and National Academies of Sciences, Engineering and Medicine.
+	Frederick is a Presidential Fellow and PhD candidate in the Neuroscience Department at Princeton University. His research focuses on large scale brain networks and cerebellar contributions to cortical structure and function across the lifespan, and is supported by the National Science Foundation and National Academies of Sciences, Engineering and Medicine.
 	</p>
 </div>
 
