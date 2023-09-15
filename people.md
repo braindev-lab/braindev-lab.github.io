@@ -7,7 +7,7 @@ cover:  true
 <div>
 	<div>
 		<h2>Jesse Gomez PH.D.</h2>
-		<img class="jesse" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
+		<img class="headshot" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 	</div>
 	<p>
 		<b>Principal Investigator</b><br>
@@ -22,19 +22,21 @@ cover:  true
 	</p>
 </div>
 
-## Anna Lyn Williams
 <div>
-	<img class="anna" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
-</div>
-<p>
+	<div>
+		<h2>Anna Lyn Williams</h2>
+		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
+	</div>
+	<p>
 	<b>Lab Manager</b><br>
-
-</p>
+	Anna is a research specialist at the Princeton Neuroscience Institute. Her research focuses on examining the neural and behavioral development of visuospatial attention, along with the corresponding structural development of cortical pleating in the dorsal stream.
+	</p>
+</div>
 
 <div>
 	<div>
 		<h2>Frederick d'Oleire Uquillas</h2>
-		<img class="fred" src="/assets/img/fred.jpg" alt="photo of fred uquillas" width="200" height="200"/>
+		<img class="headshot" src="/assets/img/fred.jpeg" alt="photo of fred uquillas" width="200" height="200"/>
 	</div>
 	<p>
 	<b>Graduate Student</b><br>
@@ -45,7 +47,7 @@ cover:  true
 <div>
 	<h2>Edan Daniel</h2>
 	<div>
-		<img class="edan" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
+		<img class="headshot" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
 	</div>
 	<p>
 		<b>Graduate Student</b><br>
@@ -58,7 +60,7 @@ cover:  true
 
 ## Omar Singleton
 <div>
-	<img class="omar" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
+	<img class="headshot" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
 </div>
 <p>
 	<b>Graduate Student</b><br>
@@ -70,7 +72,7 @@ cover:  true
 
 ## Patricia Hoyos
 <div>
-	<img class="patricia" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
+	<img class="headshot" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
 </div>
 <p>
 	<b>Graduate Student</b><br>
@@ -82,7 +84,7 @@ cover:  true
 
 ## Damola Ogunlade
 <div>
-	<img class="damola" src="/assets/img/damola.jpg" alt="photo of damola ogunlade" width="200" height="200"/>
+	<img class="headshot" src="/assets/img/damola.jpg" alt="photo of damola ogunlade" width="200" height="200"/>
 </div>
 <p>
 	<b>Graduate Student</b><br>
@@ -91,25 +93,32 @@ cover:  true
 	studying auditory cortex development through novel MRI methods. 
 </p>
 
-## Bing Li
+## Priscilla Louis
 <div>
-	<img class="bing" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
+</div>
+<p>
+	<b>Graduate Student</b><br>
+	 
+</p>
+
+## Ruggaya Musa
+<div>
 </div>
 <p>
 	<b>Undergraduate Student</b><br> 
-	I am an undergraduate senior majoring in neuroscience with a minor in computer 
-	science. I am interested in identifying biomarkers that could enhance the diagnosis 
-	or treatment of neurodevelopmental disorders using imaging techniques. At the Brain 
-	Development Lab, I worked with Fred to investigate the cerebellum-neocortex 
-	codevelopment in children with Autism Spectrum Disorder. For my ongoing senior 
-	thesis, I am continuing the investigation of cerebellar-neocortical pathways, 
-	focusing on their potential contribution to object recognition. During my free time, 
-	I love coloring, doing yoga, and spending time with friends and family. 
+</p>
+
+## Bing Li## Bing Li
+<div>
+	<img class="headshot" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
+</div>
+<p>
+	<b>Undergraduate Student</b><br> 
 </p>
 
 ## Rowen Gesue
 <div>
-	<img class="rowen" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
+	<img class="headshot" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
 </div>
 <p>
 	<b>Undergraduate Student</b><br>  
@@ -118,7 +127,7 @@ cover:  true
 ## Mariam Latif
 
 <div>
-	<img class="mariam" src="/assets/img/mariam.jpg" alt="photo of mariam latif" width="200" height="200"/>
+	<img class="headshot" src="/assets/img/mariam.jpg" alt="photo of mariam latif" width="200" height="200"/>
 </div>
 
 <p>
@@ -153,61 +162,7 @@ cover:  true
 		color: orange;
 	}
 
-	img.jesse {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.omar {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.fred {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.edan {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.patricia {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.damola {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.anna {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.mariam {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-
-	img.rowen {
-		display:block;
-		margin: 5px;
-		border-radius: 50%;
-	}
-	
-	img.bing {
+	img.headshot {
 		display:block;
 		margin: 5px;
 		border-radius: 50%;
