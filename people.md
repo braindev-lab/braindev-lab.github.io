@@ -36,7 +36,7 @@ cover:  true
 <div>
 	<div>
 		<h2>Frederick d'Oleire Uquillas</h2>
-		<img class="headshot" src="/assets/img/fred.jpeg" alt="photo of fred uquillas" width="200" height="200"/>
+		<img class="headshot" src="/assets/img/fred.jpg" alt="photo of frederick uquillas" width="200" height="200"/>
 	</div>
 	<p>
 	<b>Graduate Student</b><br>
@@ -108,7 +108,7 @@ cover:  true
 	<b>Undergraduate Student</b><br> 
 </p>
 
-## Bing Li## Bing Li
+## Bing Li
 <div>
 	<img class="headshot" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
 </div>
