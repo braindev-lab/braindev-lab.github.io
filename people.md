@@ -29,7 +29,7 @@ cover:  true
 	</div>
 	<p>
 	<b>Lab Manager</b><br>
-    Anna is a research specialist at the Princeton Neuroscience Institute. She is currently examining cortical pleating in the dorsal stream, as well as the corresponding neural and behavioral development of visuospatial attention.
+    Anna is a research specialist at the Princeton Neuroscience Institute. She is currently examining cortical pleating of higher order dorsal stream regions, as well as the corresponding neural and behavioral development of visuospatial attention.
 	</p>
 </div>
 
