@@ -29,7 +29,7 @@ cover:  true
 	</div>
 	<p>
 	<b>Lab Manager</b><br>
-    Anna is a research specialist at the Princeton Neuroscience Institute. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
+    Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
 	</p>
 </div>
 
@@ -51,7 +51,7 @@ cover:  true
 	</div>
 	<p>
 		<b>Graduate Student</b><br>
-		Edan is a PhD student in PNI. She previously worked on EEG analyses in the Dinstein
+		Edan is a PhD student at the Princeton Neuroscience Institute. She previously worked on EEG analyses in the Dinstein
 		Lab at Ben-Gurion University in Israel, and now researches how visual experience
 		during either childhood or adulthood shapes the organization and computations 
 		that occur within visual cortex. 
@@ -64,7 +64,7 @@ cover:  true
 </div>
 <p>
 	<b>Graduate Student</b><br>
-	Omar Singleton is a PhD student in PNI. He previously worked on neuroimaging projects at
+	Omar Singleton is a PhD student at the Princeton Neuroscience Institute. He previously worked on neuroimaging projects at
 	MGH, and now studies how the human thalamus develops across the lifespan and the roles
 	it plays in mediating developmental changes in the cortex in neurotypical individuals 
 	and those diagnosed with psychiatric disorders. 
@@ -76,7 +76,7 @@ cover:  true
 </div>
 <p>
 	<b>Graduate Student</b><br>
-	Patricia Hoyos is a PhD student in PNI, and member of the Gomez and Kastner labs. She
+	Patricia Hoyos is a PhD student at the Princeton Neuroscience Institute, and member of the Gomez and Kastner labs. She
 	is currently studying the development of the human dorsal stream to understand how 
 	changes in our attentional abilities and biases are shaped by structural and 
 	computational changes occurring within visual cortex. 
@@ -95,14 +95,25 @@ cover:  true
 
 ## Priscilla Louis
 <div>
+	<img class="headshot" src="/assets/img/priscilla.png" alt="photo of mariam latif" width="200" height="200"/>
 </div>
 <p>
 	<b>Graduate Student</b><br>
+	Priscilla is studying under Jesse Gomez and Tim Buschman at the Princeton Neuroscience Institute. Supported by the Presidential Fellowship, she seeks to understand the structural and functional development of working memory, episodic memory, and their overlapping networks in humans.
 	 
 </p>
 
 ## Ruggaya Musa
 <div>
+	<img class="headshot" src="/assets/img/ruggaya.jpg" alt="photo of mariam latif" width="200" height="200"/>
+</div>
+<p>
+	<b>Undergraduate Student</b><br> 
+</p>
+
+## Carlos Cortez
+<div>
+	<img class="headshot" src="/assets/img/carlos.jpg" alt="photo of mariam latif" width="200" height="200"/>
 </div>
 <p>
 	<b>Undergraduate Student</b><br> 
