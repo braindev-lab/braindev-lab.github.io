@@ -76,10 +76,7 @@ cover:  true
 </div>
 <p>
 	<b>Graduate Student</b><br>
-	Patricia Hoyos is a PhD student at the Princeton Neuroscience Institute, and member of the Gomez and Kastner labs. She
-	is currently studying the development of the human dorsal stream to understand how 
-	changes in our attentional abilities and biases are shaped by structural and 
-	computational changes occurring within visual cortex. 
+    Patricia Hoyos is a PhD candidate at the Princeton Neuroscience Institute, and member of the Gomez and Kastner labs. She is currently studying the development of the human dorsal stream to understand how changes in our attentional abilities and biases are shaped by structural and computational changes occurring within visual cortex. Patricia is also an HHMI Gilliam Fellow and Presidential Fellow.
 </p>
 
 ## Damola Ogunlade
