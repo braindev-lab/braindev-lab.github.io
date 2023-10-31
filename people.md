@@ -5,7 +5,7 @@ cover:  true
 ---
 <style type="text/css">
 #wrap {
-   width:725px;
+   width:700px;
    margin:4;
 }
 #left_col {
@@ -15,7 +15,7 @@ cover:  true
 
 #mid_col {
    float:left;
-   width:125px;
+   width:100px;
 }
 
 #right_col {
