@@ -57,13 +57,12 @@ cover:  true
 		and those diagnosed with psychiatric disorders. 
 		</p>
 		
-		<h2>Priscilla Louis<h2>
+		<h2>Priscilla Louis</h2>
 		<img class="headshot" src="/assets/img/priscilla.jpg" alt="photo of mariam latif" width="200" height="200"/>
 		<p>
 		<b>Graduate Student</b><br>
 		Priscilla is studying under Jesse Gomez and Tim Buschman at the Princeton Neuroscience Institute. Supported by the Presidential Fellowship, she seeks to understand the structural and functional development of working memory, episodic memory, and their overlapping networks in humans. 
-		</p>
-		
+		</p>	
     </div>
     
     <div id="mid_col">
@@ -94,7 +93,7 @@ cover:  true
     	Patricia Hoyos is a PhD candidate at the Princeton Neuroscience Institute, and member of the Gomez and Kastner labs. She is currently studying the development of the human dorsal stream to understand how changes in our attentional abilities and biases are shaped by structural and computational changes occurring within visual cortex. Patricia is also an HHMI Gilliam Fellow and Presidential Fellow.
 		</p>
 		
-		</h2>Damola Ogunlade</h2>
+		<h2>Damola Ogunlade</h2>
 		<img class="headshot" src="/assets/img/damola.jpg" alt="photo of damola ogunlade" width="200" height="200"/>
 		<p>
 		<b>Graduate Student</b><br>
@@ -102,7 +101,6 @@ cover:  true
 		Pennsylvania. She is a first-year student in PNI rotating in the lab where she'll be
 		studying auditory cortex development through novel MRI methods. 
 		</p>
-		
     </div>
 </div>
 
