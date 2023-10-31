@@ -75,12 +75,7 @@ cover:  true
 		<p>
 		<b>Undergraduate Student</b><br> 
 		</p>
-		
-		<h2>Rowen Gesue</h2>
-		<img class="headshot" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
-		<p>
-		<b>Undergraduate Student</b><br>  
-		</p>
+
     </div>
     
     <div id="mid_col">
@@ -131,11 +126,17 @@ cover:  true
 		<p>
 		<b>Undergraduate Student</b><br>  
 		</p>
+		
+		<h2>Rowen Gesue</h2>
+		<img class="headshot" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br>  
+		</p>
     </div>
 </div>
 
-
-## Lab Alumni
+<div
+<h2>Lab Alumni</h2>
 
 <p>
 	Folarin Okulaja<br>
@@ -147,6 +148,7 @@ cover:  true
 	Niranjana Bienkowska<br>
 	Shannon Chen<br>
 </p>
+</div>
 
 <!--author-->
 
