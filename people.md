@@ -5,7 +5,7 @@ cover:  true
 ---
 <style type="text/css">
 #wrap {
-   width:700px;
+   width:725px;
    margin:4;
 }
 #left_col {
@@ -15,7 +15,7 @@ cover:  true
 
 #mid_col {
    float:left;
-   width:100px;
+   width:125px;
 }
 
 #right_col {
@@ -76,6 +76,17 @@ cover:  true
 		<b>Undergraduate Student</b><br> 
 		</p>
 
+		<h2>Lab Alumni</h2>
+		<p>
+		Folarin Okulaja<br>
+		Sidney Gregorek<br> 
+		Zach Yazdani<br>
+		Matthew Trotter<br>
+		Stuart Duffield<br>
+		Allie Reynolds<br>
+		Niranjana Bienkowska<br>
+		Shannon Chen<br>
+		</p>
     </div>
     
     <div id="mid_col">
@@ -135,20 +146,8 @@ cover:  true
     </div>
 </div>
 
-<div
-<h2>Lab Alumni</h2>
 
-<p>
-	Folarin Okulaja<br>
-	Sidney Gregorek<br> 
-	Zach Yazdani<br>
-	Matthew Trotter<br>
-	Stuart Duffield<br>
-	Allie Reynolds<br>
-	Niranjana Bienkowska<br>
-	Shannon Chen<br>
-</p>
-</div>
+
 
 <!--author-->
 
