@@ -3,35 +3,48 @@ layout: page
 title:  People
 cover:  true 
 ---
-<div id="row"> 
-  <div class="col">
+<style type="text/css">
+#wrap {
+   width:600px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:300px;
+}
+#right_col {
+   float:right;
+   width:300px;
+}
+</style>
+
+<div id="wrap">
+    <div id="left_col">
 		<h2>Jesse Gomez PH.D.</h2>
 		<img class="headshot" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
-	<p>
-		<b>Principal Investigator</b><br>
-		jessegomez [at] princeton [dot] edu<br>
-		PNI Room 234<br>
-		Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
-		is the principal investigator of the Brain Development Lab. He received his BA in
-		Neuroscience from Dartmouth College with Dr. Brad Duchaine, his PhD in
-		Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
-		completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
-		he teaches courses on Developmental and Cognitive Neuroscience.
-	</p>
-  </div> 
-  <div class="col">
-		<h2>Anna Lyn Williams</h2>
+		<p>
+			<b>Principal Investigator</b><br>
+			jessegomez [at] princeton [dot] edu<br>
+			PNI Room 234<br>
+			Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
+			is the principal investigator of the Brain Development Lab. He received his BA in
+			Neuroscience from Dartmouth College with Dr. Brad Duchaine, his PhD in
+			Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
+			completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
+			he teaches courses on Developmental and Cognitive Neuroscience.
+		</p>
+    </div>
+    <div id="right_col">
+        <h2>Anna Lyn Williams</h2>
 		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
-	<p>
-	<b>Lab Manager</b><br>
-    Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
-	</p>
-  </div> 
-</div> 
+		<p>
+			<b>Lab Manager</b><br>
+    		Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
+		</p>
+    </div>
+</div>
 
-#row{  display: grid; 
-  grid-template-columns: 40% 60%; 
-} 
+
 
 <div>
 	<div>
