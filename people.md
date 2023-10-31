@@ -5,10 +5,8 @@ cover:  true
 ---
 <div id="row"> 
   <div class="col">
-	<div>
 		<h2>Jesse Gomez PH.D.</h2>
 		<img class="headshot" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
-	</div>
 	<p>
 		<b>Principal Investigator</b><br>
 		jessegomez [at] princeton [dot] edu<br>
@@ -22,10 +20,8 @@ cover:  true
 	</p>
   </div> 
   <div class="col">
-  		<div>
 		<h2>Anna Lyn Williams</h2>
 		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
-	</div>
 	<p>
 	<b>Lab Manager</b><br>
     Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
