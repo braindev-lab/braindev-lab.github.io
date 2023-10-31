@@ -29,6 +29,9 @@ cover:  true
   </div> 
 </div> 
 
+#row{  display: grid; 
+  grid-template-columns: 40% 60%; 
+} 
 
 <div>
 	<div>
