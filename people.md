@@ -5,13 +5,19 @@ cover:  true
 ---
 <style type="text/css">
 #wrap {
-   width:600px;
+   width:650px;
    margin:4;
 }
 #left_col {
    float:left;
    width:300px;
 }
+
+#mid_col {
+   float:left;
+   width:50px;
+}
+
 #right_col {
    float:right;
    width:300px;
@@ -40,7 +46,22 @@ cover:  true
 		<b>Graduate Student</b><br>
 		Frederick is a Presidential Fellow and PhD candidate in the Neuroscience Department at Princeton University. His research focuses on large scale brain networks and cerebellar contributions to cortical structure and function across the lifespan, and is supported by the National Science Foundation and National Academies of Sciences, Engineering and Medicine.
 		</p>
+		
+		<h2>Omar Singleton</h2>
+		<img class="headshot" src="/assets/img/omar.jpg" alt="photo of omar singleton" width="200" height="200"/>
+		<p>
+		<b>Graduate Student</b><br>
+		Omar Singleton is a PhD student at the Princeton Neuroscience Institute. He previously worked on neuroimaging projects at
+		MGH, and now studies how the human thalamus develops across the lifespan and the roles
+		it plays in mediating developmental changes in the cortex in neurotypical individuals 
+		and those diagnosed with psychiatric disorders. 
+		</p>
+		
     </div>
+    
+    <div id="mid_col">
+    </div>
+    
     <div id="right_col">
         <h2>Anna Lyn Williams</h2>
 		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
@@ -58,6 +79,14 @@ cover:  true
 		during either childhood or adulthood shapes the organization and computations 
 		that occur within visual cortex. 
 		</p>
+		
+		<h2>Patricia Hoyos</h2>
+		<img class="headshot" src="/assets/img/patricia.jpg" alt="photo of patricia hoyos" width="200" height="200"/>
+		<p>
+		<b>Graduate Student</b><br>
+    	Patricia Hoyos is a PhD candidate at the Princeton Neuroscience Institute, and member of the Gomez and Kastner labs. She is currently studying the development of the human dorsal stream to understand how changes in our attentional abilities and biases are shaped by structural and computational changes occurring within visual cortex. Patricia is also an HHMI Gilliam Fellow and Presidential Fellow.
+		</p>
+		
     </div>
 </div>
 
