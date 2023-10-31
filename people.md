@@ -6,7 +6,7 @@ cover:  true
 <style type="text/css">
 #wrap {
    width:600px;
-   margin:0 auto;
+   margin:4;
 }
 #left_col {
    float:left;
@@ -33,6 +33,13 @@ cover:  true
 			completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
 			he teaches courses on Developmental and Cognitive Neuroscience.
 		</p>
+
+		<h2>Frederick d'Oleire Uquillas</h2>
+		<img class="headshot" src="/assets/img/fred.jpg" alt="photo of frederick uquillas" width="200" height="200"/>
+		<p>
+		<b>Graduate Student</b><br>
+		Frederick is a Presidential Fellow and PhD candidate in the Neuroscience Department at Princeton University. His research focuses on large scale brain networks and cerebellar contributions to cortical structure and function across the lifespan, and is supported by the National Science Foundation and National Academies of Sciences, Engineering and Medicine.
+		</p>
     </div>
     <div id="right_col">
         <h2>Anna Lyn Williams</h2>
@@ -40,6 +47,16 @@ cover:  true
 		<p>
 			<b>Lab Manager</b><br>
     		Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
+		</p>
+		
+		<h2>Edan Daniel</h2>
+		<img class="headshot" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
+		<p>
+		<b>Graduate Student</b><br>
+		Edan is a PhD student at the Princeton Neuroscience Institute. She previously worked on EEG analyses in the Dinstein
+		Lab at Ben-Gurion University in Israel, and now researches how visual experience
+		during either childhood or adulthood shapes the organization and computations 
+		that occur within visual cortex. 
 		</p>
     </div>
 </div>
