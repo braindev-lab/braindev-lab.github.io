@@ -62,7 +62,25 @@ cover:  true
 		<p>
 		<b>Graduate Student</b><br>
 		Priscilla is studying under Jesse Gomez and Tim Buschman at the Princeton Neuroscience Institute. Supported by the Presidential Fellowship, she seeks to understand the structural and functional development of working memory, episodic memory, and their overlapping networks in humans. 
-		</p>	
+		</p>
+		
+		<h2>Bing Li</h2>
+		<img class="headshot" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br> 
+		</p>
+		
+		<h2>Ruggaya Musa</h2>
+		<img class="headshot" src="/assets/img/ruggaya.jpg" alt="photo of mariam latif" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br> 
+		</p>
+		
+		<h2>Rowen Gesue</h2>
+		<img class="headshot" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br>  
+		</p>
     </div>
     
     <div id="mid_col">
@@ -101,55 +119,21 @@ cover:  true
 		Pennsylvania. She is a first-year student in PNI rotating in the lab where she'll be
 		studying auditory cortex development through novel MRI methods. 
 		</p>
+		
+		<h2>Carlos Cortez</h2>
+		<img class="headshot" src="/assets/img/carlos.jpg" alt="photo of mariam latif" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br> 
+		</p>
+		
+		<h2>Mariam Latif</h2>
+		<img class="headshot" src="/assets/img/mariam.jpg" alt="photo of mariam latif" width="200" height="200"/>
+		<p>
+		<b>Undergraduate Student</b><br>  
+		</p>
     </div>
 </div>
 
-<div>
-	</h2>    </h2>
-</div>
-
-
-## Ruggaya Musa
-<div>
-	<img class="headshot" src="/assets/img/ruggaya.jpg" alt="photo of mariam latif" width="200" height="200"/>
-</div>
-<p>
-	<b>Undergraduate Student</b><br> 
-</p>
-
-## Carlos Cortez
-<div>
-	<img class="headshot" src="/assets/img/carlos.jpg" alt="photo of mariam latif" width="200" height="200"/>
-</div>
-<p>
-	<b>Undergraduate Student</b><br> 
-</p>
-
-## Bing Li
-<div>
-	<img class="headshot" src="/assets/img/bing.png" alt="photo of bing li" width="200" height="200"/>
-</div>
-<p>
-	<b>Undergraduate Student</b><br> 
-</p>
-
-## Rowen Gesue
-<div>
-	<img class="headshot" src="/assets/img/rowen.jpg" alt="photo of rowen gesue" width="200" height="200"/>
-</div>
-<p>
-	<b>Undergraduate Student</b><br>  
-</p>
-
-## Mariam Latif
-
-<div>
-	<img class="headshot" src="/assets/img/mariam.jpg" alt="photo of mariam latif" width="200" height="200"/>
-</div>
-
-<p>
-	<b>Undergraduate Student</b><br>  
-</p>
 
 ## Lab Alumni
 
