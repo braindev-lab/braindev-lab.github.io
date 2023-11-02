@@ -93,7 +93,8 @@ cover:  true
     </div>
     
     <div id="right_col">
-        <h2>    </h2>
+        <h2>  
+          </h2>
         
         <h2>Anna Lyn Williams</h2>
 		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
