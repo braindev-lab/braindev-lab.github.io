@@ -136,3 +136,16 @@
 <p>
 	<b>Undergraduate Student</b><br>  
 </p>
+
+
+## Lab Alumni
+<p>
+Folarin Okulaja<br>
+Sidney Gregorek<br> 
+Zach Yazdani<br>
+Matthew Trotter<br>
+Stuart Duffield<br>
+Allie Reynolds<br>
+Niranjana Bienkowska<br>
+Shannon Chen<br>
+</p>
