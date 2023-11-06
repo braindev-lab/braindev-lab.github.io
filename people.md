@@ -22,6 +22,11 @@ cover:  true
    float:right;
    width:300px;
 }
+
+p2 {
+  font-size: 14px;
+}
+
 </style>
 
 <div id="wrap">
@@ -32,13 +37,15 @@ cover:  true
 			<b>Principal Investigator</b><br>
 			jessegomez [at] princeton [dot] edu<br>
 			PNI Room 234<br>
+		</p>
+		<p2>
 			Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
 			is the principal investigator of the Brain Development Lab. He received his BA in
 			Neuroscience from Dartmouth College with Dr. Brad Duchaine, his PhD in
 			Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
 			completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
 			he teaches courses on Developmental and Cognitive Neuroscience.
-		</p>
+		</p2>
 
 		<h2>Frederick d'Oleire Uquillas</h2>
 		<img class="headshot" src="/assets/img/fred.jpg" alt="photo of frederick uquillas" width="200" height="200"/>
@@ -100,8 +107,10 @@ cover:  true
 		<img class="headshot" src="/assets/img/anna.jpg" alt="photo of anna lyn williams" width="200" height="200"/>
 		<p>
 			<b>Lab Manager</b><br>
-    		Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
 		</p>
+		<p2>
+    		Anna is a research specialist at the Princeton Neuroscience Institute where she is the lab manager of the Brain Development Lab. Currently, her research focuses on characterizing patterns of cortical pleating in the human dorsal visual stream, as well as examining the corresponding neural and behavioral development of visuospatial attention.
+		</p2>
 		
 		<h2>Edan Daniel</h2>
 		<img class="headshot" src="/assets/img/edan.jpg" alt="photo of edan daniel" width="200" height="200"/>
