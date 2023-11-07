@@ -28,7 +28,7 @@ font-size:18px;
 }
 p#role desription {
 font-size:14px;
-line-height:130%;
+line-height:110%;
 }
 
 
