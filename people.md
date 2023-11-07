@@ -25,7 +25,7 @@ cover:  true
 
 p2 {
   font-size: 14px;
-  line-height:50%;
+  margin:50%;
 }
 
 </style>
