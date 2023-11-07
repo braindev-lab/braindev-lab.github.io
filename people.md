@@ -24,11 +24,11 @@ cover:  true
 }
 
 p#role {
-font-size:20px;
+font-size:18px;
 }
 p#role desription {
 font-size:14px;
-line-height:140%;
+line-height:130%;
 }
 
 
@@ -48,7 +48,7 @@ line-height:140%;
 			Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
 			completed postdoctoral training at UC Berkeley with Dr. Kevin Weiner. At Princeton,
 			he teaches courses on Developmental and Cognitive Neuroscience.
-		</p>
+		</desription></p>
 
 		<h2>Frederick d'Oleire Uquillas</h2>
 		<img class="headshot" src="/assets/img/fred.jpg" alt="photo of frederick uquillas" width="200" height="200"/>
