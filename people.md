@@ -6,7 +6,7 @@ cover:  true
 <style type="text/css">
 #wrap {
    width:700px;
-   margin:4;
+   margin:3;
 }
 #left_col {
    float:left;
