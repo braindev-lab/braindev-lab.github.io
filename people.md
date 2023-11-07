@@ -6,7 +6,7 @@ cover:  true
 <style type="text/css">
 #wrap {
    width:700px;
-   margin:3;
+   margin:2;
 }
 #left_col {
    float:left;
@@ -25,7 +25,7 @@ cover:  true
 
 p {
   font-size: 14px;
-  line-height:95%;
+  line-height:120%;
 }
 
 </style>
