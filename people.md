@@ -40,9 +40,10 @@ line-height:130%;
 		<img class="headshot" src="/assets/img/jesse.jpg" alt="photo of jesse gomez" width="200" height="200"/>
 		<p id="role">
 			<b>Principal Investigator</b><br>
+			<desription>
 			jessegomez [at] princeton [dot] edu<br>
 			PNI Room 234<br>
-			<desription>Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
+			Jesse Gomez is a neuroscientist in the Princeton Neuroscience Institute where he
 			is the principal investigator of the Brain Development Lab. He received his BA in
 			Neuroscience from Dartmouth College with Dr. Brad Duchaine, his PhD in
 			Neuroscience from Stanford University with Dr. Kalanit Grill-Spector, and
