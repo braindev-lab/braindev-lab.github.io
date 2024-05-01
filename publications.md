@@ -10,7 +10,7 @@ permalink: /publications/
 
 1. Daniel Hertz, E., Yao, J. K., Gregorek, S., Hoyos, P. M., Gomez, J., Spatial processing of limbs reveals a nonlinear eccentricity gradient in high-level visual cortex (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.15.561711v1" target="_blank">bioRxiv preprint</a>.
 
-1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Structural covariation between cerebellum and cerebral cortex is atypically modulated by thalamus in autism spectrum disorder (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.562588v1" target="_blank">bioRxiv preprint</a>.
+1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Gomez, J., Structural covariation between cerebellum and cerebral cortex is atypically modulated by thalamus in autism spectrum disorder (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.562588v1" target="_blank">bioRxiv preprint</a>.
 
 
 ## 2023
