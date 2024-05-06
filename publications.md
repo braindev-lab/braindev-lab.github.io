@@ -12,6 +12,8 @@ permalink: /publications/
 
 1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Gomez, J., Structural covariation between cerebellum and cerebral cortex is atypically modulated by thalamus in autism spectrum disorder (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.562588v1" target="_blank">bioRxiv preprint</a>.
 
+1. Chen, X., Liu, X., Hoyos, P. M., Daniel-Hertz, E., Yao, J. K., Zhen, Z., Gomez, J., Share architectural patterns across the human cortical mantle predict visual representations and capture behavior across the lifespan (2024) <a href="https://doi.org/10.1101/2023.11.29.569190" target="_blank">bioRxiv preprint</a>.
+
 
 ## 2023
 
