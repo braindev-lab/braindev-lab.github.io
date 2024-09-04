@@ -51,11 +51,11 @@ font-size:14px;
 			he teaches courses on Developmental and Cognitive Neuroscience.
 		</desription></p>
 
-		<h2>Satoshi "Toshi" Miyata</h2>
+		<h2>Toshikazu "Toshi" Miyata</h2>
 		<img class="headshot" src="/assets/img/toshi.png" alt="photo of Toshi Miyata" width="200" height="200"/>
 		<p id="role">
 		<b>Postdoctoral Scholar</b><br>
-		<desription>Dr. Toshi Miyata is a shared postdoc between the Gomez Lab and the Takemura Lab of the National Institute for Physiological Sciences in Okazaki, Japan. He is an expert in diffusion MRI and is researching how white matter connectivity scaffolds the spatial and temporal organization of the human brain across development. 
+		<desription>Dr. Toshi Miyata is a joint NINS-Princeton research fellow between the Gomez Lab and the <a href="https://www.nips.ac.jp/scbm/en/" target="_blank">Takemura Lab</a> of the National Institute for Physiological Sciences in Okazaki, Japan. He is an expert in diffusion MRI and is researching how white matter connectivity scaffolds the spatial and temporal organization of the human brain across development. 
 		</desription></p>
 		
 		<h2>Frederick d'Oleire Uquillas</h2>
