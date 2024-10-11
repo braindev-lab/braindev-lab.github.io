@@ -4,16 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-## 2024
+## Preprints
 
 1. Yao, J. K., Yazdani, Z., Musa, R., Gomez, J., Microstructural pruning in human prefrontal cortex scaffolds its functional reorganization across development (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.04.29.591716v1" target="_blank">bioRxiv preprint</a>.
 
 1. Daniel Hertz, E., Yao, J. K., Gregorek, S., Hoyos, P. M., Gomez, J., Spatial processing of limbs reveals a nonlinear eccentricity gradient in high-level visual cortex (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.15.561711v1" target="_blank">bioRxiv preprint</a>.
 
-1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Gomez, J., Structural covariation between cerebellum and cerebral cortex is atypically modulated by thalamus in autism spectrum disorder (2024) <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.562588v1" target="_blank">bioRxiv preprint</a>.
+1. Chen, X., Liu, X., Hoyos, P. M., Daniel-Hertz, E., Yao, J. K., Zhen, Z., Gomez, J., Shared architectural patterns across the human cortical mantle predict visual representations and capture behavior across the lifespan (2024) <a href="https://doi.org/10.1101/2023.11.29.569190" target="_blank">bioRxiv preprint</a>.
 
-1. Chen, X., Liu, X., Hoyos, P. M., Daniel-Hertz, E., Yao, J. K., Zhen, Z., Gomez, J., Share architectural patterns across the human cortical mantle predict visual representations and capture behavior across the lifespan (2024) <a href="https://doi.org/10.1101/2023.11.29.569190" target="_blank">bioRxiv preprint</a>.
+## 2024
 
+1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Gomez, J., Multimodal evidence for cerebellar influence on cortical development in autism: structural growth amidst functional disruption (2024) <a href="https://www.nature.com/articles/s41380-024-02769-1" target="_blank">Molecular Psychiatry</a>.
 
 ## 2023
 
