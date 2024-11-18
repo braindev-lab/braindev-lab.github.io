@@ -3,66 +3,82 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>People</title>
     <style>
- .people-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
+		.people-container {
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 20px;
+		}
 
-.people-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 3rem 4rem;  /* Increased vertical and horizontal gap */
-    justify-content: center;
-    padding: 1rem;
-}
+		.people-grid {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 3rem 4rem;
+			justify-content: center;
+			padding: 1rem;
+		}
 
-.person-card {
-    flex: 0 1 280px;  /* Changed from 1 1 300px to create more natural breaks */
-    max-width: 280px;
-    margin-bottom: 1rem;
-}
+		.person-card {
+			flex: 0 1 280px;
+			max-width: 280px;
+			margin-bottom: 1rem;
+			/* Add vertical offset to every other card */
+			transform: translateY(0);
+			transition: transform 0.3s ease;
+		}
 
-.headshot {
-    display: block;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    margin: 5px 0;
-}
+		/* Offset every other card */
+		.person-card:nth-child(even) {
+			transform: translateY(2rem);
+		}
 
-.role {
-    font-size: 18px;
-    line-height: 1.3;
-}
+		/* Offset every third card a different amount */
+		.person-card:nth-child(3n) {
+			transform: translateY(1rem);
+		}
 
-.role-description {
-    font-size: 14px;
-    margin-top: 0.5rem;
-}
+		.headshot {
+			display: block;
+			width: 200px;
+			height: 200px;
+			border-radius: 50%;
+			margin: 5px 0;
+		}
 
-.alumni-section {
-    margin-top: 3rem;
-    width: 100%;
-}
+		.role {
+			font-size: 18px;
+			line-height: 1.3;
+		}
 
-@media (max-width: 768px) {
-    .people-grid {
-        flex-direction: column;
-        align-items: center;
-        gap: 2rem;  /* Reduced gap for mobile */
-    }
+		.role-description {
+			font-size: 14px;
+			margin-top: 0.5rem;
+		}
 
-    .person-card {
-        width: 100%;
-        max-width: 100%;
-        text-align: center;
-    }
+		.alumni-section {
+			margin-top: 3rem;
+			width: 100%;
+			transform: none !important; /* Prevent offset on alumni section */
+		}
 
-    .headshot {
-        margin: 5px auto;
-    }
-}
+		@media (max-width: 768px) {
+			.people-grid {
+				flex-direction: column;
+				align-items: center;
+				gap: 2rem;
+			}
+
+			.person-card {
+				width: 100%;
+				max-width: 100%;
+				text-align: center;
+				/* Remove vertical offset on mobile */
+				transform: translateY(0) !important;
+			}
+
+			.headshot {
+				margin: 5px auto;
+			}
+		}
     </style>
 </head>
 <body>
