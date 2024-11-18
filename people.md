@@ -12,7 +12,7 @@
 		.people-grid {
 			display: flex;
 			flex-wrap: wrap;
-			gap: 3rem 4rem;
+			gap: 1.5rem 4rem;  /* Reduced vertical gap from 3rem to 1.5rem */
 			justify-content: center;
 			padding: 1rem;
 		}
@@ -20,20 +20,19 @@
 		.person-card {
 			flex: 0 1 280px;
 			max-width: 280px;
-			margin-bottom: 1rem;
-			/* Add vertical offset to every other card */
+			margin-bottom: 0.5rem;  /* Reduced from 1rem */
 			transform: translateY(0);
 			transition: transform 0.3s ease;
 		}
 
 		/* Offset every other card */
 		.person-card:nth-child(even) {
-			transform: translateY(2rem);
+			transform: translateY(1.5rem);  /* Reduced from 2rem to maintain proportions */
 		}
 
 		/* Offset every third card a different amount */
 		.person-card:nth-child(3n) {
-			transform: translateY(1rem);
+			transform: translateY(0.75rem);  /* Reduced from 1rem to maintain proportions */
 		}
 
 		.headshot {
@@ -57,7 +56,7 @@
 		.alumni-section {
 			margin-top: 3rem;
 			width: 100%;
-			transform: none !important; /* Prevent offset on alumni section */
+			transform: none !important;
 		}
 
 		@media (max-width: 768px) {
@@ -71,7 +70,6 @@
 				width: 100%;
 				max-width: 100%;
 				text-align: center;
-				/* Remove vertical offset on mobile */
 				transform: translateY(0) !important;
 			}
 
