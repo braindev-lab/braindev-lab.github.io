@@ -1,67 +1,68 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>People</title>
     <style>
-        .people-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+ .people-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
-        .people-grid {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 2rem;
-            justify-content: center;
-        }
+.people-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem 4rem;  /* Increased vertical and horizontal gap */
+    justify-content: center;
+    padding: 1rem;
+}
 
-        .person-card {
-            flex: 1 1 300px;
-            max-width: 300px;
-            margin-bottom: 2rem;
-        }
+.person-card {
+    flex: 0 1 280px;  /* Changed from 1 1 300px to create more natural breaks */
+    max-width: 280px;
+    margin-bottom: 1rem;
+}
 
-        .headshot {
-            display: block;
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-            margin: 5px 0;
-        }
+.headshot {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 5px 0;
+}
 
-        .role {
-            font-size: 18px;
-            line-height: 1.3;
-        }
+.role {
+    font-size: 18px;
+    line-height: 1.3;
+}
 
-        .role-description {
-            font-size: 14px;
-            margin-top: 0.5rem;
-        }
+.role-description {
+    font-size: 14px;
+    margin-top: 0.5rem;
+}
 
-        .alumni-section {
-            margin-top: 3rem;
-            width: 100%;
-        }
+.alumni-section {
+    margin-top: 3rem;
+    width: 100%;
+}
 
-        @media (max-width: 768px) {
-            .people-grid {
-                flex-direction: column;
-                align-items: center;
-            }
+@media (max-width: 768px) {
+    .people-grid {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;  /* Reduced gap for mobile */
+    }
 
-            .person-card {
-                width: 100%;
-                max-width: 100%;
-                text-align: center;
-            }
+    .person-card {
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+    }
 
-            .headshot {
-                margin: 5px auto;
-            }
-        }
+    .headshot {
+        margin: 5px auto;
+    }
+}
     </style>
 </head>
 <body>
