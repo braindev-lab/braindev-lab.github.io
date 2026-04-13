@@ -6,11 +6,15 @@ permalink: /publications/
 
 ## Preprints
 
-1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Jewel Merriman, Veronica Zhang, Jonathan D. Cohen, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. A protective role for the cerebellum in cognitive aging (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.10.15.618102v1" target="_blank">bioRxiv preprint</a>.
-
 1. Yao, J. K., Yazdani, Z., Musa, R., Gomez, J., Microstructural pruning in human prefrontal cortex scaffolds its functional reorganization across development (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.04.29.591716v1" target="_blank">bioRxiv preprint</a>.
 
+1. Omar Singleton, Jesse Gomez. Non-uniform structural development across human thalamus aligns with risk zones for schizophrenia in adulthood (2026) <a href="" target="_blank">bioRxiv preprint</a>.
 
+1. Anna Williams, Patricia Hoyos, Jesse Gomez. Sulcal Pleating captures functional boundaries of the human dorsal visual stream (2026) <a href="" target="_blank">bioRxiv preprint</a>.
+
+## 2026
+
+1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Edan Daniel Hertz, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jonathan D. Cohen, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life (2026), forthcoming Nature Neuroscience <a href="https://www.biorxiv.org/content/10.1101/2024.10.15.618102v1" target="_blank">bioRxiv preprint</a>.
 
 ## 2024
 
