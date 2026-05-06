@@ -7,6 +7,18 @@ cover:  true
 <img class="logo2" src="/assets/img/logo.png" alt="lab logo orange brain with orbiting lab name" width="450" height="450"/>
 
 
+## Lab News:
+
+<div>
+	<img class="drhoyos" src="/assets/img/drhoyos.jpg" alt="photo celebration phd" width="233" height="171"/>
+</div>
+
+<p>
+	Congratulations to newly-minted Dr. Patricia Hoyos for defending her dissertation on 
+	the development of visuospatial attention and its neural mechanisms within the dorsal
+	visual stream! 
+</p>
+
 ## Mission
 
 <p>
