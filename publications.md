@@ -8,11 +8,11 @@ permalink: /publications/
 
 1. Oyindamola Ogunlade, Jesse Gomez. Prolonged development of tonotopic tuning in human auditory cortex (preprint) <a href="https://www.biorxiv.org/content/10.64898/2026.04.20.719686v1" target="_blank">bioRxiv preprint</a>.
 
-1. Yao, J. K., Yazdani, Z., Musa, R., Gomez, J., Microstructural pruning in human prefrontal cortex scaffolds its functional reorganization across development (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.04.29.591716v1" target="_blank">bioRxiv preprint</a>.
+1. Priscilla Louis, Jewelia K. Yao, Zachariya Yazdani, Ruggaya Musa, Jesse Gomez. Protracted functional and structural reorganization of human prefrontal cortex supports lateralized category geometries (preprint) <a href="https://www.biorxiv.org/cgi/content/short/2026.05.04.721346v1" target="_blank">bioRxiv preprint</a>.
 
 1. Omar Singleton, Jesse Gomez. Non-uniform structural development across human thalamus aligns with risk zones for schizophrenia in adulthood (2026) <a href="" target="_blank">bioRxiv preprint</a>.
 
-1. Anna Williams, Patricia Hoyos, Jesse Gomez. Sulcal Pleating captures functional boundaries of the human dorsal visual stream (2026) <a href="" target="_blank">bioRxiv preprint</a>.
+1. Anna Williams, Patricia Hoyos, Jesse Gomez. Sulcal pleating captures functional boundaries of the human dorsal visual stream (2026) <a href="" target="_blank">bioRxiv preprint</a>.
 
 ## 2026
 
