@@ -16,7 +16,7 @@ permalink: /publications/
 
 ## 2026
 
-1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Edan Daniel Hertz, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jonathan D. Cohen, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life (2026), forthcoming Nature Neuroscience <a href="https://www.biorxiv.org/content/10.1101/2024.10.15.618102v1" target="_blank">bioRxiv preprint</a>.
+1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Edan Daniel Hertz, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jonathan D. Cohen, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life (2026) <a href="https://www.nature.com/articles/s41593-026-02289-x" target="_blank">Nature Neuroscience</a>.
 
 ## 2024
 
