@@ -6,9 +6,11 @@ permalink: /publications/
 
 ## Preprints
 
-1. Oyindamola Ogunlade, Jesse Gomez. Prolonged development of tonotopic tuning in human auditory cortex (preprint) <a href="https://www.biorxiv.org/content/10.64898/2026.04.20.719686v1" target="_blank">bioRxiv preprint</a>.
+1. Oyindamola Ogunlade, Jesse Gomez. Prolonged development of tonotopic tuning in human auditory cortex <a href="https://www.biorxiv.org/content/10.64898/2026.04.20.719686v1" target="_blank">bioRxiv preprint</a>.
 
-1. Priscilla Louis, Jewelia K. Yao, Zachariya Yazdani, Ruggaya Musa, Jesse Gomez. Protracted functional and structural reorganization of human prefrontal cortex supports lateralized category geometries (preprint) <a href="https://www.biorxiv.org/cgi/content/short/2026.05.04.721346v1" target="_blank">bioRxiv preprint</a>.
+1. Edan Daniel-Hertz, Jesse Gomez. Deafness and sign language experience shift visual category representations <a href="https://www.biorxiv.org/content/10.64898/2026.06.09.731097v1" target="_blank">bioRxiv preprint</a>.
+
+1. Priscilla Louis, Jewelia K. Yao, Zachariya Yazdani, Ruggaya Musa, Jesse Gomez. Protracted functional and structural reorganization of human prefrontal cortex supports lateralized category geometries <a href="https://www.biorxiv.org/cgi/content/short/2026.05.04.721346v1" target="_blank">bioRxiv preprint</a>.
 
 1. Omar Singleton, Jesse Gomez. Non-uniform structural development across human thalamus aligns with risk zones for schizophrenia in adulthood (2026) <a href="" target="_blank">bioRxiv preprint</a>.
 
