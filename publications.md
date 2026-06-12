@@ -16,6 +16,9 @@ permalink: /publications/
 
 1. Anna Williams, Patricia Hoyos, Jesse Gomez. Sulcal pleating captures functional boundaries of the human dorsal visual stream (2026) <a href="" target="_blank">bioRxiv preprint</a>.
 
+1. Oier Pastor-Alonso, Matthew Heffel, Mohammad Baig, Jasmine Harris, Susana González-Granero, Siqian Li, Sol Beccari, Julia Chu, Hannah Lambin, I-ling Lu, Matthew Varughese, Andrew Cheng, Jessica, Le, Mohini Bhade, JaeYeon Kim, Arantxa Cebrian-Silla, Isabel Torres-Cuevas, Kurtis Auguste, Eric Huang, Arturu Alvarez-Buylla, Jesse Gomez, José Manuel Garcia-Verdugo, Chongyuan Luo, Mercedes Paredes. Organization and Progression of Neural Progenitor Cells in the Developing Human Dentate Gyrus (2026) <a href="https://www.biorxiv.org/content/10.64898/2026.06.06.730648v1" target="_blank">bioRxiv preprint</a>.
+
+
 ## 2026
 
 1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Edan Daniel Hertz, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jonathan D. Cohen, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life (2026) <a href="https://www.nature.com/articles/s41593-026-02289-x" target="_blank">Nature Neuroscience</a>.
