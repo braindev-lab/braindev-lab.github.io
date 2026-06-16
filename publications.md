@@ -23,9 +23,11 @@ permalink: /publications/
 
 1. Federico d’Oleire Uquillas, Esra Sefik, Jakob Seidlitz, Edan Daniel Hertz, Rafael Romero-Garcia, Varun Warrier, Richard A.I. Bethlehem, Aaron F. Alexander-Bloch, Jonathan D. Cohen, Jorge Sepulcre, Samuel S.-H. Wang, Jesse Gomez. Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life (2026) <a href="https://www.nature.com/articles/s41593-026-02289-x" target="_blank">Nature Neuroscience</a>.
 
-## 2024
+## 2025
 
-1. Daniel Hertz, E., Yao, J. K., Gregorek, S., Hoyos, P. M., Gomez, J., Spatial processing of limbs reveals a nonlinear eccentricity gradient in high-level visual cortex (2024) <a href="https://www.jneurosci.org/content/early/2024/11/06/JNEUROSCI.0809-24.2024" target="_blank">Journal of Neuroscience</a>.
+1. Daniel Hertz, E., Yao, J. K., Gregorek, S., Hoyos, P. M., Gomez, J., An eccentricity gradient reversal across high-level visual cortex (2025) <a href="https://www.jneurosci.org/content/early/2024/11/06/JNEUROSCI.0809-24.2024" target="_blank">Journal of Neuroscience</a>.
+
+## 2024
 
 1. Uquillas, F., Sefik, E., Li, B.,...Wang, S. S.-H., Gomez, J., Multimodal evidence for cerebellar influence on cortical development in autism: structural growth amidst functional disruption (2024) <a href="https://www.nature.com/articles/s41380-024-02769-1" target="_blank">Molecular Psychiatry</a>.
 
